@@ -17,7 +17,7 @@ int main()
     
     media= (a+b+c)/3;
 
-     printf("a suma media eh: %f", media);
+     printf("a suma media eh: %.1f", media);
 
     return 0;
 }
