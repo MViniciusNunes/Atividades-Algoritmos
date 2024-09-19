@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//programa para calcular a media de três notas
+
 int main()
 {
     float a,b,c,media ;

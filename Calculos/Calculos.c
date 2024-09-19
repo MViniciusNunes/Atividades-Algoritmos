@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Programa para calcular soma,subtração,multiplicação,divisão 
+
 int main()
 {
     float num1,num2,soma,subt,prod,div;
