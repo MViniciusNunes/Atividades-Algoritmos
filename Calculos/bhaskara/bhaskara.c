@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
+//programa para encontrar a raize de uma equação de 2° grau, com a formula de bhaskara
+
 int main()
 {
     float A, B, C, DELTA, XMais, XMenos;
