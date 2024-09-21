@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//programa que calcula, a circufencia e a área de um circulo, o raio fornecido pelo usuario
+
 int main()
 {
     float R, A, C;
