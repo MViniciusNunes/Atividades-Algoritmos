@@ -21,5 +21,4 @@ int main()
      printf("\tA subtracao eh: \t%.2f\n", subt);
       printf("\tA multiplicacao eh: \t%.2f\n", prod);
        printf("\tA divisao eh: \t\t%2.2f\n", div);
-    return 0;
 }

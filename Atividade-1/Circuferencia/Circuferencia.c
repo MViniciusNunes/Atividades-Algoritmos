@@ -12,8 +12,6 @@ int main()
     A=3.14*(R*R);
     C=2*3.14*R;
 
-    printf("\tA area do circulo eh: \t\t%.2f\n", A);
-    printf("\tA circuferencia do circulo eh: \t%.2f\n", C);
+    printf("A area do circulo eh: \t\t%.2f\nA circuferencia do circulo eh: \t%.2f\n", A, C);
 
-    return 0;
 }

@@ -4,15 +4,13 @@
 
 int main()
 {
-    float x, y, z, Aum;
+    float salario;
     
     printf("Digite seu salario: ");
-    scanf("%f",&x);
+    scanf("%f",&salario);
 
-    y=x*0.25;
-    Aum=y+x;
+    salario=salario*1.25;
 
-    printf("seu aumento eh:  R$%.2f\n", Aum);
+    printf("seu aumento eh:  R$%.2f\n", salario);
 
-    return 0;
 }
