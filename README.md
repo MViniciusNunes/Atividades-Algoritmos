@@ -1,0 +1,1 @@
+Algumas Atividades Proposta na Faculdade, sei que são coisas simples mais quero deixar gravado o meu progresso, esse são os meus primeiros passos na linguagem C e na programação também. / Some Activities Proposed at College, I know they are simple things but I want to record my progress, these are my first steps in the C language and in programming too.
