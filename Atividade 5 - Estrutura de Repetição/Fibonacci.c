@@ -11,7 +11,7 @@ int main() {
 
     
     if (n == 1 || n == 2) {
-        printf("O %d-ésimo termo da sÃ©rie de Fibonacci é: 1\n", n);
+        printf("O %d-ésimo termo da série de Fibonacci é: 1\n", n);
         return 0;
     }
 
