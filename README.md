@@ -6,23 +6,23 @@ O objetivo é documentar a jornada de aprendizado, desde os fundamentos da lingu
 
 ## 📂 Estrutura das Atividades
 
-- **[Atividade1](./Atividade1)**
+- **Atividade1**
   - Exercícios introdutórios sobre variáveis, entrada/saída e operações básicas.
-- **[Atividade2](./Atividade2)**
+- **Atividade2**
   - Uso de estruturas de seleção (`if`) e operadores lógicos para tomada de decisões.
-- **[Atividade3](./Atividade3)**
+- **Atividade3**
   - Estruturas de seleção avançadas com base em tabelas de referência e múltiplas condições.
-- **[Atividade4](./Atividade4)**
+- **Atividade4**
   - Programas interativos com menus e estruturas de seleção aninhadas.
-- **[Atividade5](./Atividade5)**
+- **Atividade5**
   - Implementação de estruturas de repetição (`for`, `while`, `do-while`).
-- **[Atividade6](./Atividade6)**
+- **Atividade6**
   - Modularização do código com funções e otimização com macros.
-- **[Atividade7](./Atividade7)**
+- **Atividade7**
   - Conceitos avançados de recursividade e manipulação de memória com ponteiros.
-- **[Atividade8](./Atividade8)**
+- **Atividade8**
   - Manipulação de estruturas de dados compostas: vetores, strings e matrizes.
-- **[HELLO WORD](./HELLO WORD)**
+- **HELLO WORD**
   - O clássico programa de boas-vindas, um ponto de partida para a linguagem.
 
 ## 🛠️ Tecnologias e Conceitos
@@ -41,4 +41,5 @@ Todos os projetos foram desenvolvidos para serem compilados com o **GCC**. As in
 ## 📌 Observações
 
 - Cada pasta de atividade possui um **`README.md`** próprio que detalha os exercícios e os conceitos abordados.
+- O código-fonte de cada exercício está presente na pasta correspondente.cios e os conceitos abordados.
 - O código-fonte de cada exercício está presente na pasta correspondente.
