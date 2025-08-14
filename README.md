@@ -1,1 +1,44 @@
-Algumas Atividades Proposta na Faculdade, sei que são coisas simples mais quero deixar gravado o meu progresso, esse são os meus primeiros passos na linguagem C e na programação também. / Some Activities Proposed at College, I know they are simple things but I want to record my progress, these are my first steps in the C language and in programming too.
+# Algoritmos em C — Repositório de Atividades
+
+Este repositório reúne as atividades e exercícios desenvolvidos para a disciplina de **Algoritmos em C**. O material está organizado em pastas que correspondem às diferentes listas de exercícios e tópicos abordados ao longo do curso.
+
+O objetivo é documentar a jornada de aprendizado, desde os fundamentos da linguagem até conceitos mais avançados como recursividade, ponteiros e estruturas de dados.
+
+## 📂 Estrutura das Atividades
+
+- **[Atividade1](./Atividade1)**
+  - Exercícios introdutórios sobre variáveis, entrada/saída e operações básicas.
+- **[Atividade2](./Atividade2)**
+  - Uso de estruturas de seleção (`if`) e operadores lógicos para tomada de decisões.
+- **[Atividade3](./Atividade3)**
+  - Estruturas de seleção avançadas com base em tabelas de referência e múltiplas condições.
+- **[Atividade4](./Atividade4)**
+  - Programas interativos com menus e estruturas de seleção aninhadas.
+- **[Atividade5](./Atividade5)**
+  - Implementação de estruturas de repetição (`for`, `while`, `do-while`).
+- **[Atividade6](./Atividade6)**
+  - Modularização do código com funções e otimização com macros.
+- **[Atividade7](./Atividade7)**
+  - Conceitos avançados de recursividade e manipulação de memória com ponteiros.
+- **[Atividade8](./Atividade8)**
+  - Manipulação de estruturas de dados compostas: vetores, strings e matrizes.
+- **[HELLO WORD](./HELLO WORD)**
+  - O clássico programa de boas-vindas, um ponto de partida para a linguagem.
+
+## 🛠️ Tecnologias e Conceitos
+
+- Linguagem **C** (padrão ANSI).
+- Tipos de dados e variáveis.
+- Estruturas de controle de fluxo (seleção e repetição).
+- Funções e macros.
+- Recursividade e ponteiros.
+- Estruturas de dados básicas (vetores, strings e matrizes).
+
+## ▶️ Compilação
+
+Todos os projetos foram desenvolvidos para serem compilados com o **GCC**. As instruções específicas para compilar e executar cada exercício podem ser encontradas no `README.md` de cada pasta de atividade.
+
+## 📌 Observações
+
+- Cada pasta de atividade possui um **`README.md`** próprio que detalha os exercícios e os conceitos abordados.
+- O código-fonte de cada exercício está presente na pasta correspondente.
